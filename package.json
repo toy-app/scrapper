@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "json2csv": "^3.7.3",
     "scrape-linkedin": "0.0.2"
   }
 }
